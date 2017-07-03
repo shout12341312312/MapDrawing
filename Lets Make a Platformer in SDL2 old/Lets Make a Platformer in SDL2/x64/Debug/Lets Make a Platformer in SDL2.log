@@ -1,0 +1,74 @@
+﻿  main.cpp
+c:\users\michu\desktop\lets make a platformer in sdl2 old\lets make a platformer in sdl2\tile.h(18): warning C4091: 'static ': ignored on left of 'Tile::State' when no variable is declared
+c:\users\michu\desktop\lets make a platformer in sdl2 old\lets make a platformer in sdl2\main.cpp(29): warning C4244: '=': conversion from 'Uint32' to 'float', possible loss of data
+c:\users\michu\desktop\lets make a platformer in sdl2 old\lets make a platformer in sdl2\main.cpp(32): warning C4244: '=': conversion from 'Uint32' to 'float', possible loss of data
+c:\users\michu\desktop\lets make a platformer in sdl2 old\lets make a platformer in sdl2\main.cpp(44): warning C4244: 'argument': conversion from 'float' to 'Uint8', possible loss of data
+c:\users\michu\desktop\lets make a platformer in sdl2 old\lets make a platformer in sdl2\main.cpp(53): warning C4244: 'argument': conversion from 'float' to 'Uint32', possible loss of data
+  XScreen.cpp
+c:\users\michu\desktop\lets make a platformer in sdl2 old\lets make a platformer in sdl2\tile.h(18): warning C4091: 'static ': ignored on left of 'Tile::State' when no variable is declared
+  TitleScreen.cpp
+c:\users\michu\desktop\lets make a platformer in sdl2 old\lets make a platformer in sdl2\tile.h(18): warning C4091: 'static ': ignored on left of 'Tile::State' when no variable is declared
+  Tile.cpp
+c:\users\michu\desktop\lets make a platformer in sdl2 old\lets make a platformer in sdl2\tile.h(18): warning C4091: 'static ': ignored on left of 'Tile::State' when no variable is declared
+c:\users\michu\desktop\lets make a platformer in sdl2 old\lets make a platformer in sdl2\tile.cpp(50): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  Texture.cpp
+c:\users\michu\desktop\lets make a platformer in sdl2 old\lets make a platformer in sdl2\texture.cpp(77): warning C4244: 'argument': conversion from 'float' to 'Uint8', possible loss of data
+  Text.cpp
+c:\users\michu\desktop\lets make a platformer in sdl2 old\lets make a platformer in sdl2\text.cpp(41): warning C4244: 'argument': conversion from 'float' to 'Uint8', possible loss of data
+  SpriteSheetAnimation.cpp
+  SplashScreen.cpp
+c:\users\michu\desktop\lets make a platformer in sdl2 old\lets make a platformer in sdl2\tile.h(18): warning C4091: 'static ': ignored on left of 'Tile::State' when no variable is declared
+c:\users\michu\desktop\lets make a platformer in sdl2 old\lets make a platformer in sdl2\splashscreen.cpp(54): warning C4390: ';': empty controlled statement found; is this the intent?
+  ScreenManager.cpp
+c:\users\michu\desktop\lets make a platformer in sdl2 old\lets make a platformer in sdl2\tile.h(18): warning C4091: 'static ': ignored on left of 'Tile::State' when no variable is declared
+  Player.cpp
+c:\users\michu\desktop\lets make a platformer in sdl2 old\lets make a platformer in sdl2\player.cpp(80): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+c:\users\michu\desktop\lets make a platformer in sdl2 old\lets make a platformer in sdl2\player.cpp(81): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+  OptionsScreen.cpp
+c:\users\michu\desktop\lets make a platformer in sdl2 old\lets make a platformer in sdl2\tile.h(18): warning C4091: 'static ': ignored on left of 'Tile::State' when no variable is declared
+  OptionsManager.cpp
+c:\users\michu\desktop\lets make a platformer in sdl2 old\lets make a platformer in sdl2\tile.h(18): warning C4091: 'static ': ignored on left of 'Tile::State' when no variable is declared
+c:\users\michu\desktop\lets make a platformer in sdl2 old\lets make a platformer in sdl2\optionsmanager.cpp(36): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\michu\desktop\lets make a platformer in sdl2 old\lets make a platformer in sdl2\optionsmanager.cpp(49): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+c:\users\michu\desktop\lets make a platformer in sdl2 old\lets make a platformer in sdl2\optionsmanager.cpp(50): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+c:\users\michu\desktop\lets make a platformer in sdl2 old\lets make a platformer in sdl2\optionsmanager.cpp(54): warning C4244: '+=': conversion from 'float' to 'int', possible loss of data
+c:\users\michu\desktop\lets make a platformer in sdl2 old\lets make a platformer in sdl2\optionsmanager.cpp(58): warning C4244: '+=': conversion from 'float' to 'int', possible loss of data
+c:\users\michu\desktop\lets make a platformer in sdl2 old\lets make a platformer in sdl2\optionsmanager.cpp(105): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+c:\users\michu\desktop\lets make a platformer in sdl2 old\lets make a platformer in sdl2\optionsmanager.cpp(106): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+c:\users\michu\desktop\lets make a platformer in sdl2 old\lets make a platformer in sdl2\optionsmanager.cpp(142): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+  MenuManager.cpp
+c:\users\michu\desktop\lets make a platformer in sdl2 old\lets make a platformer in sdl2\tile.h(18): warning C4091: 'static ': ignored on left of 'Tile::State' when no variable is declared
+c:\users\michu\desktop\lets make a platformer in sdl2 old\lets make a platformer in sdl2\menumanager.cpp(36): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\michu\desktop\lets make a platformer in sdl2 old\lets make a platformer in sdl2\menumanager.cpp(49): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+c:\users\michu\desktop\lets make a platformer in sdl2 old\lets make a platformer in sdl2\menumanager.cpp(50): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+c:\users\michu\desktop\lets make a platformer in sdl2 old\lets make a platformer in sdl2\menumanager.cpp(54): warning C4244: '+=': conversion from 'float' to 'int', possible loss of data
+c:\users\michu\desktop\lets make a platformer in sdl2 old\lets make a platformer in sdl2\menumanager.cpp(58): warning C4244: '+=': conversion from 'float' to 'int', possible loss of data
+c:\users\michu\desktop\lets make a platformer in sdl2 old\lets make a platformer in sdl2\menumanager.cpp(105): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+c:\users\michu\desktop\lets make a platformer in sdl2 old\lets make a platformer in sdl2\menumanager.cpp(106): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+c:\users\michu\desktop\lets make a platformer in sdl2 old\lets make a platformer in sdl2\menumanager.cpp(142): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+  Map.cpp
+c:\users\michu\desktop\lets make a platformer in sdl2 old\lets make a platformer in sdl2\tile.h(18): warning C4091: 'static ': ignored on left of 'Tile::State' when no variable is declared
+  Layer.cpp
+c:\users\michu\desktop\lets make a platformer in sdl2 old\lets make a platformer in sdl2\tile.h(18): warning C4091: 'static ': ignored on left of 'Tile::State' when no variable is declared
+c:\users\michu\desktop\lets make a platformer in sdl2 old\lets make a platformer in sdl2\layer.cpp(64): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\michu\desktop\lets make a platformer in sdl2 old\lets make a platformer in sdl2\layer.cpp(65): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+  InputManager.cpp
+  GameplayScreen.cpp
+c:\users\michu\desktop\lets make a platformer in sdl2 old\lets make a platformer in sdl2\tile.h(18): warning C4091: 'static ': ignored on left of 'Tile::State' when no variable is declared
+  GameScreen.cpp
+  FloatRect.cpp
+  FileManager.cpp
+  Generating Code...
+  Compiling...
+  FadeAnimation.cpp
+  Animation.cpp
+c:\users\michu\desktop\lets make a platformer in sdl2 old\lets make a platformer in sdl2\animation.cpp(17): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+c:\users\michu\desktop\lets make a platformer in sdl2 old\lets make a platformer in sdl2\animation.cpp(18): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+c:\users\michu\desktop\lets make a platformer in sdl2 old\lets make a platformer in sdl2\animation.cpp(36): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+c:\users\michu\desktop\lets make a platformer in sdl2 old\lets make a platformer in sdl2\animation.cpp(37): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+c:\users\michu\desktop\lets make a platformer in sdl2 old\lets make a platformer in sdl2\animation.cpp(38): warning C4267: 'argument': conversion from 'size_t' to 'const char', possible loss of data
+c:\users\michu\desktop\lets make a platformer in sdl2 old\lets make a platformer in sdl2\animation.cpp(54): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+c:\users\michu\desktop\lets make a platformer in sdl2 old\lets make a platformer in sdl2\animation.cpp(55): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+  Generating Code...
+  Lets Make a Platformer in SDL2.vcxproj -> C:\Users\MICHU\Desktop\Lets Make a Platformer in SDL2 old\x64\Debug\Lets Make a Platformer in SDL2.exe
+  Lets Make a Platformer in SDL2.vcxproj -> C:\Users\MICHU\Desktop\Lets Make a Platformer in SDL2 old\x64\Debug\Lets Make a Platformer in SDL2.pdb (Partial PDB)
